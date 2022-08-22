@@ -1,3 +1,3 @@
 # Krisgamer34.github.io
 
-- [Min hjemmeside](ØveHjemmeside/)
+- [Min hjemmeside](ØveHjemmeside/index.html)
