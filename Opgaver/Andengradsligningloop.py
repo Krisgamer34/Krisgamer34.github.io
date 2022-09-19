@@ -1,7 +1,7 @@
-x = 1
+x = 0
 while x <= 10:
-    y = 3*int(x)^2 + 6*int(x) + 9 
+    y = 3*x**2 + 6*x + 9 
 
-    print(y)
-
+    print("y="+ str(y))
+    print("x="+ str(x))
     x= x + 1
